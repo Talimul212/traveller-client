@@ -4,6 +4,7 @@ import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Features from '../Features/Features';
 import Feedback from '../Feedback/Feedback';
+import Map from '../Map/Map';
 import Services from '../Services/Services';
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
           <Services></Services>
           <Features></Features>
           <Feedback></Feedback>
+          <Map></Map>
         </div>
     );
 };
